@@ -1,14 +1,14 @@
-title: blog how i study frontend 
+title: blog how i study frontend
 author: burik84
 email: avburik84@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Greetings to my guests on my blog. 
-  Here I am going to share about the path traveled as 
+  Greetings to my guests on my blog.
+  Here I am going to share about the path traveled as
   I received the necessary knowledge to create sites and what helpers used.
 
 # social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
+# twitter_username: your-twitter-handle
+github_username:  burik84
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 
