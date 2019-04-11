@@ -14,3 +14,6 @@ show_excerpts: false # set to false to remove excerpts on the homepage
 
 theme: minima
 copyright: © 2019
+
+minima:
+  date_format: "%b %-d, %Y"
