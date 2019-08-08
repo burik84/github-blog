@@ -4,5 +4,6 @@ Welcome to **my first blog** repository. This repository will be used during the
 ***
 Основные записи будут про
  * git & github
- * gulp и используемые плагины 
+ * gulp и используемые плагины
+ * БЭМ.
  * frameworks (пока bootstrap).
