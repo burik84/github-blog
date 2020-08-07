@@ -1,9 +1,13 @@
-# Дневник прогресса
+# My Diary
 
 Welcome to **my first blog** repository. This repository will be used during the different activities that I will be guiding you through.
 ***
-Основные записи будут про
+My notes about
  * git & github
- * gulp и используемые плагины
- * БЭМ.
- * frameworks (пока bootstrap).
+ * gulp||webpack - review
+ * BEM...
+ * frameworks/library
+   * bootstrap
+   * react
+ * other
+   * training - resources
