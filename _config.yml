@@ -13,7 +13,7 @@ github_username:  burik84
 show_excerpts: false # set to false to remove excerpts on the homepage
 
 theme: minima
-copyright: © 2019
+copyright: © 2021
 
 minima:
   date_format: "%b %-d, %Y"
